@@ -1,0 +1,264 @@
+,Hotel Name,Hotel City,Hotel Country,Hotel Phone,Hotel Website,Hotel Email,Hotel Latitude,Hotel Longitude,Weather,City_Id,Temperature
+0,SF Al-dawood Restaurant,Dalbandin,Pakistan,phone not provided,website not provided,email not provided,28.8852121,64.4016155,clear sky,0,54.39
+1,Hotel Chathams,Waitangi,New Zealand,+64 3 305 0048,http://www.hotelchatham.co.nz,http://www.hotelchatham.co.nz,-43.9509492,-176.5607157,broken clouds,5,59.83
+2,Savoy,Kouga Local Municipality,South Africa,phone not provided,website not provided,email not provided,-34.0532815,24.9223697,overcast clouds,13,65.88
+3,Oyster Bay Lodge,Kouga Local Municipality,South Africa,+27 42 297 0150,http://www.oysterbaylodge.co.za/,http://www.oysterbaylodge.co.za/,-34.1610892,24.6358804,overcast clouds,13,65.88
+4,فندق تاسيلي,Al-Fewat,Libya,phone not provided,website not provided,email not provided,24.9612991,10.1743971,broken clouds,18,56.7
+5,La Tour de Toile,Ouled Msafar,Morocco,phone not provided,website not provided,email not provided,30.4684023,-9.061351838303572,clear sky,19,56.55
+6,Hôtel Targante,Biougra,Morocco,+212 5 28 81 01 27,website not provided,email not provided,30.2157482,-9.357822112109126,clear sky,19,56.55
+7,فندق اوباري,Awbari,Libya,phone not provided,website not provided,email not provided,26.5965593,12.766073,clear sky,21,53.92
+8,The Grand,Invercargill City,New Zealand,+64 22 123 4276,http://www.thegrandinvercargill.co.nz,http://www.thegrandinvercargill.co.nz,-46.4105337,168.3469528,clear sky,26,66.34
+9,Victoria Railway Hotel,Invercargill City,New Zealand,phone not provided,website not provided,email not provided,-46.4115971,168.3458183,clear sky,26,66.34
+10,Queens Hotel,Lukhanji Local Municipality,South Africa,phone not provided,website not provided,email not provided,-31.8983005,26.8810973,overcast clouds,35,55.0
+11,Silvestre Praia Hotel,Imbituba,Brazil,phone not provided,website not provided,email not provided,-28.2432812,-48.6644712,clear sky,47,67.73
+12,Henrique Lage,Imbituba,Brazil,phone not provided,website not provided,email not provided,-28.2406074,-48.6633451,clear sky,47,67.73
+13,Henrique Lage,Álamos,Mexico,phone not provided,website not provided,email not provided,27.0199129,-108.9343394,clear sky,50,69.19
+14,Henrique Lage,Álamos,Mexico,phone not provided,website not provided,email not provided,27.0199106,-108.9346532,clear sky,50,69.19
+15,Villa Howden,Hobart,Australia,phone not provided,website not provided,email not provided,-43.0097946,147.27947946462487,broken clouds,51,67.53
+16,Villa Howden,Hobart,Australia,phone not provided,website not provided,email not provided,-43.010003049999995,147.27936896428628,broken clouds,51,67.53
+17,Fountain Hall Guest Farm,Mpofana Local Municipality,South Africa,phone not provided,website not provided,email not provided,-29.2606637,29.9766877,overcast clouds,56,50.92
+18,Willow Grange Hotel,Umtshezi Local Municipality,South Africa,phone not provided,website not provided,email not provided,-29.0677368,29.9556506,overcast clouds,56,50.92
+19,54 on Bank,Port Fairy,Australia,phone not provided,website not provided,email not provided,-38.3827044,142.2331771,overcast clouds,60,62.67
+20,Douglas Riverside,Port Fairy,Australia,phone not provided,website not provided,email not provided,-38.382692,142.240172,overcast clouds,60,62.67
+21,Cabañas,Ancud,Chile,phone not provided,website not provided,email not provided,-41.87020295,-73.82567887114084,scattered clouds,70,59.32
+22,Balai,Ancud,Chile,phone not provided,website not provided,email not provided,-41.8678431,-73.8282002,scattered clouds,70,59.32
+23,Balai,Ndlambe Local Municipality,South Africa,phone not provided,website not provided,email not provided,-33.5939104,26.8936287,light rain,74,62.19
+24,Ferryman,Ndlambe Local Municipality,South Africa,phone not provided,website not provided,email not provided,-33.6009114,26.8948725,light rain,74,62.19
+25,Bon Hotel Waterfront,Richards Bay,South Africa,phone not provided,website not provided,email not provided,-28.7932035,32.0808188,few clouds,78,63.32
+26,SUN1 Richards Bay,Richards Bay,South Africa,+27 35 789 1001,https://www.southernsun.com/sun1-richards-bay?utm_source=openstreetmaps&utm_medium=businesslisting&utm_campaign=hotel_sun1-richards-bay,https://www.southernsun.com/sun1-richards-bay?utm_source=openstreetmaps&utm_medium=businesslisting&utm_campaign=hotel_sun1-richards-bay,-28.7521816,32.05550557288396,few clouds,78,63.32
+27,Marriott Downtown Abu-Dhabi,Abu Dhabi,United Arab Emirates,phone not provided,website not provided,email not provided,24.4702212,54.3700323,clear sky,86,69.82
+28,Hotel Al Rawda Arjan by Rotana,Abu Dhabi,United Arab Emirates,phone not provided,website not provided,email not provided,24.4689949,54.37251895776906,clear sky,86,69.82
+29,Ήφαιστος,Myrina,Greece,phone not provided,website not provided,email not provided,39.8838567,25.065864087656177,clear sky,92,59.85
+30,Artemis,Myrina,Greece,+30 22540 24075,https://www.artemis-lemnos.gr,https://www.artemis-lemnos.gr,39.884865,25.0662633,clear sky,92,59.85
+31,DoubleTree Jamestown,Jamestown,United States,phone not provided,website not provided,email not provided,42.097220699999994,-79.24356553560622,overcast clouds,95,51.39
+32,La Quinta Inn & Suites by Wyndham Jamestown,Jamestown,United States,phone not provided,website not provided,email not provided,42.0960503,-79.2442129,overcast clouds,95,51.39
+33,Waterford Hotel,Gqeberha,South Africa,phone not provided,website not provided,email not provided,-33.9320089,25.5777512,few clouds,97,68.09
+34,Newtondale,Gqeberha,South Africa,phone not provided,website not provided,email not provided,-33.949723,25.561134946571073,few clouds,97,68.09
+35,Ibis Hotel,Valparaíso,Chile,phone not provided,website not provided,email not provided,-33.0390592,-71.6266727,clear sky,100,64.63
+36,Hotel Reina Victoria,Valparaíso,Chile,phone not provided,website not provided,email not provided,-33.03813675,-71.62901437234433,clear sky,100,64.63
+37,Hampton Inn & Suites,Patterson,United States,phone not provided,website not provided,email not provided,37.4651402,-121.1669681873876,overcast clouds,103,61.03
+38,Best Western,Gustine,United States,phone not provided,website not provided,email not provided,37.1100583,-121.01726485,overcast clouds,103,61.03
+39,hotel Isidora,Tocopilla,Chile,+56552811518,http://discarrasco.wix.com/isidora,http://discarrasco.wix.com/isidora,-22.0913503,-70.2001845,overcast clouds,104,69.49
+40,Hotel Galvarino,Tocopilla,Chile,phone not provided,website not provided,email not provided,-22.08959315,-70.19594272625335,overcast clouds,104,69.49
+41,Hospedaria JSF,Horta,Portugal,phone not provided,website not provided,email not provided,38.5301319,-28.632987399999998,broken clouds,106,55.78
+42,Azoris Faial Garden - Resort Hotel,Horta,Portugal,+351292207400,https://www.azorishotels.com/faialgarden/hotel,https://www.azorishotels.com/faialgarden/hotel,38.53153925,-28.62963098004333,broken clouds,106,55.78
+43,Victoria Hotel,Cape Agulhas Local Municipality,South Africa,+27 28 4241159,http://www.victoriahotelbdorp.co.za/,http://www.victoriahotelbdorp.co.za/,-34.5339684,20.0395361,overcast clouds,109,66.02
+44,Napier Hotel,Cape Agulhas Local Municipality,South Africa,phone not provided,website not provided,email not provided,-34.473488,19.900201967511016,overcast clouds,109,66.02
+45,Aliwen,Quellón,Chile,phone not provided,website not provided,email not provided,-43.1176059,-73.6127065,scattered clouds,117,57.04
+46,El Chico Leo,Quellón,Chile,652681567,website not provided,email not provided,-43.1206696,-73.6175803,scattered clouds,117,57.04
+47,شقق فندقية,As Sayh,Saudi Arabia,phone not provided,website not provided,email not provided,24.1703819,47.3441768,scattered clouds,119,64.81
+48,Mariner Days Inn & Suites,Kill Devil Hills,United States,phone not provided,website not provided,email not provided,36.03530595,-75.67099065035967,light intensity drizzle,122,62.6
+49,Mariner Days Inn & Suites,Kill Devil Hills,United States,phone not provided,website not provided,email not provided,36.03510685,-75.6697080568667,light intensity drizzle,122,62.6
+50,Margaret River Hotel,Margaret River,Australia,+61 8 9757 2655,https://margaretriverhotel.com.au/,https://margaretriverhotel.com.au/,-33.9513065,115.073957,few clouds,123,63.0
+51,Quality Inn Margaret River,Margaret River,Australia,+61 8 9757 2633,https://www.staymargaretriver.com.au/,https://www.staymargaretriver.com.au/,-33.954336600000005,115.0591582508016,few clouds,123,63.0
+52,لازورد,Hermel,Lebanon,phone not provided,website not provided,email not provided,34.4137474,36.3920935,scattered clouds,125,51.73
+53,فندق حمص الكبير,Homs,Syria,phone not provided,website not provided,email not provided,34.7130164,36.7127759,scattered clouds,125,51.73
+54,Hotel Way Wait,Palanpur,India,phone not provided,website not provided,email not provided,24.17334275,72.41622661906919,broken clouds,127,63.32
+55,Hotel Lajwanti,Palanpur,India,phone not provided,website not provided,email not provided,24.1740297,72.41650958335657,broken clouds,127,63.32
+56,Hotel Lajwanti,East London,South Africa,phone not provided,website not provided,email not provided,-33.0185052,27.9137962,light rain,130,64.89
+57,Majestic Boutique Hotel,East London,South Africa,phone not provided,website not provided,email not provided,-33.0215508,27.9132492,light rain,130,64.89
+58,Hotel Talisman,Ponta Delgada,Portugal,phone not provided,http://www.hoteltalisman.com/,http://www.hoteltalisman.com/,37.7391291,-25.67229818198271,broken clouds,133,54.32
+59,Hotel Avenida,Ponta Delgada,Portugal,phone not provided,website not provided,email not provided,37.74051495,-25.665621891620468,broken clouds,133,54.32
+60,Hotel Santa Cruz,Vallegrande,Bolivia,phone not provided,website not provided,email not provided,-18.4902782,-64.1060254,broken clouds,138,61.57
+61,Hotel Solar,Vallegrande,Bolivia,phone not provided,website not provided,email not provided,-18.4875009,-64.1063824,broken clouds,138,61.57
+62,Landmark Inn,Fort Irwin,United States,phone not provided,website not provided,email not provided,35.2602341,-116.69093379088957,overcast clouds,145,57.63
+63,Imful,Tengeru,Tanzania,phone not provided,website not provided,email not provided,-3.3507937,36.7978476,broken clouds,151,59.68
+64,Ngare Sero Mountain Retreat,Usa River,Tanzania,phone not provided,website not provided,email not provided,-3.3591227,36.8368804,broken clouds,151,59.68
+65,Hotel Chik Chik Namibe,Moçâmedes,Angola,phone not provided,website not provided,email not provided,-15.19542205,12.146870890168739,broken clouds,153,68.81
+66,iu Hotel,Moçâmedes,Angola,phone not provided,website not provided,email not provided,-15.19083975,12.151207577555638,broken clouds,153,68.81
+67,Shyam,Veraval,India,phone not provided,website not provided,email not provided,20.9119895,70.3621212,broken clouds,154,71.19
+68,Shri Radhe,Veraval,India,phone not provided,website not provided,email not provided,20.888574,70.4030013,broken clouds,154,71.19
+69,Salles,Praia da Vitória,Portugal,phone not provided,website not provided,email not provided,38.7313735,-27.0603219,few clouds,155,53.76
+70,Hotel Varandas do Atlântico,Praia da Vitória,Portugal,+351 295 540 050,website not provided,email not provided,38.73127565,-27.059438024832694,few clouds,155,53.76
+71,Copthorne Hotel Solway Park,Masterton,New Zealand,phone not provided,website not provided,email not provided,-40.96078835,175.62115183428006,overcast clouds,160,68.02
+72,Copthorne Hotel Solway Park,Masterton,New Zealand,phone not provided,website not provided,email not provided,-40.9620655,175.61649551388817,overcast clouds,160,68.02
+73,Hotel Nelly,São Gabriel,Brazil,phone not provided,website not provided,email not provided,-30.337321199999998,-54.32040495,few clouds,163,66.97
+74,Hotel Caçula,São Gabriel,Brazil,phone not provided,website not provided,email not provided,-30.3354439,-54.31945155275179,few clouds,163,66.97
+75,Gardenia Hotel,Lazzàro,Italy,+39 0965 712191,https://gardeniahotelrc.it/,https://gardeniahotelrc.it/,37.9649154,15.669999,overcast clouds,165,58.89
+76,Gardenia Hotel,Bova Marina,Italy,phone not provided,website not provided,email not provided,37.9301263,15.918974796126761,overcast clouds,165,58.89
+77,Boston Hotel,Port Lincoln,Australia,phone not provided,website not provided,email not provided,-34.7223599,135.8655108507955,broken clouds,172,67.57
+78,Grand Tasman,Port Lincoln,Australia,phone not provided,www.grandtasmanhotel.com.au,www.grandtasmanhotel.com.au,-34.7213011,135.8609653,broken clouds,172,67.57
+79,Royal Indu Hotel,Gaur,Nepal,9865014303,website not provided,email not provided,26.7764081,85.2701168,clear sky,173,59.05
+80,"Nepal Lodge, Gaur",Gaur,Nepal,phone not provided,website not provided,email not provided,26.7645777,85.2805229,clear sky,173,59.05
+81,Itanos Hotel,Sitia Municipal Unit,Greece,phone not provided,website not provided,email not provided,35.2071081,26.106488761206897,clear sky,179,60.98
+82,Sitia Beach,Sitia Municipal Unit,Greece,phone not provided,website not provided,email not provided,35.20355429999999,26.110283913976282,clear sky,179,60.98
+83,Sitia Beach,Summerville,United States,phone not provided,website not provided,email not provided,33.0151725,-80.17767426745243,clear sky,183,62.55
+84,Comfort Inn,Summerville,United States,phone not provided,website not provided,email not provided,33.036832149999995,-80.1516945,clear sky,183,62.55
+85,Plaza sal paraiso,Guerrero Negro,Mexico,phone not provided,website not provided,email not provided,27.9705567,-114.0459381,broken clouds,184,67.06
+86,San Luciano,Guerrero Negro,Mexico,phone not provided,website not provided,email not provided,27.9673145,-114.0403582,broken clouds,184,67.06
+87,فندق النزل,Sakaka,Saudi Arabia,phone not provided,website not provided,email not provided,29.9598923,40.2047385,scattered clouds,189,52.41
+88,sakakah residence,Sakaka,Saudi Arabia,phone not provided,website not provided,email not provided,29.9696226,40.1944749,scattered clouds,189,52.41
+89,Hotel Colón,Antofagasta,Chile,phone not provided,website not provided,email not provided,-23.6482961,-70.3993777,broken clouds,191,67.28
+90,Ancla Inn,Antofagasta,Chile,phone not provided,website not provided,email not provided,-23.6488658,-70.3980961,broken clouds,191,67.28
+91,Hotel Rural Finca San Juan,San Juan de la Rambla,Spain,phone not provided,website not provided,email not provided,28.39044605,-16.643861870936185,broken clouds,193,66.02
+92,Hacienda el Terrero,Los Realejos,Spain,phone not provided,website not provided,email not provided,28.3941063,-16.6140637,broken clouds,193,66.02
+93,Quality Inn & Suites,Town of Chenango,United States,phone not provided,website not provided,email not provided,42.1507864,-75.89755764653454,light rain,194,50.2
+94,Comfort Inn,City of Binghamton,United States,phone not provided,website not provided,email not provided,42.1417249,-75.90312997391305,light rain,194,50.2
+95,Comfort Inn,San Juan de Marcona,Peru,phone not provided,website not provided,email not provided,-15.36203395,-75.16388371867006,overcast clouds,195,63.73
+96,El Imperial,San Juan de Marcona,Peru,phone not provided,website not provided,email not provided,-15.3622374,-75.16627149339655,overcast clouds,195,63.73
+97,Aloe guest house,Overstrand Local Municipality,South Africa,phone not provided,website not provided,email not provided,-34.4192217,19.2345494,overcast clouds,197,65.8
+98,Whale Coast Lodge,Overstrand Local Municipality,South Africa,phone not provided,http://www.whalecoastlodge.co.za/,http://www.whalecoastlodge.co.za/,-34.4202811,19.2347891,overcast clouds,197,65.8
+99,L'Estuaire,Talmont-sur-Gironde,France,phone not provided,website not provided,email not provided,45.53497625,-0.9023612472091644,light rain,207,50.81
+100,L'Estuaire,Talmont-sur-Gironde,France,+33 546904385,https://www.hotellestuaire.com/,https://www.hotellestuaire.com/,45.53486855,-0.9021449206185599,light rain,207,50.81
+101,خال رسول,Al-Hirah,Iraq,phone not provided,website not provided,email not provided,31.8816019,44.4777126,moderate rain,208,56.16
+102,Residência Ka Dencho,Cova Rodela,Cape Verde,phone not provided,website not provided,email not provided,14.8731745,-24.6987549,overcast clouds,209,71.13
+103,Vivi´s Place,Nova Sintra,Cape Verde,00238-994-4033,website not provided,email not provided,14.8706885,-24.6966666,overcast clouds,209,71.13
+104,Old Oasis Hotel,Bawiti,Egypt,phone not provided,website not provided,email not provided,28.3536925,28.8646702,clear sky,214,55.96
+105,el-Beshmo Lodge,Bawiti,Egypt,phone not provided,website not provided,email not provided,28.35402015,28.86408383398389,clear sky,214,55.96
+106,Embassy Suites by Hilton Lompoc Central Coast,Lompoc,United States,805-735-8311,https://www.embassysuiteslompoc.com/,https://www.embassysuiteslompoc.com/,34.655865500000004,-120.45875342880974,scattered clouds,223,65.7
+107,Days Inn,Lompoc,United States,phone not provided,website not provided,email not provided,34.65635555,-120.45649554627175,scattered clouds,223,65.7
+108,Sunny Hill Center سَنِي هِل سِنْتَر,Arta,Djibouti,+253 27 42 21 30,https://www.sunnyhillcenterarta.com/,https://www.sunnyhillcenterarta.com/,11.524127,42.8383788,broken clouds,225,68.72
+109,Hôtel de la Paix فندق السلام,Arta,Djibouti,+253 77 06 85 25,website not provided,email not provided,11.5215739,42.8423905,broken clouds,225,68.72
+110,Seaview Hotel Zum Sperrgebiet,Lüderitz,Namibia,phone not provided,website not provided,email not provided,-26.6452054,15.158203,few clouds,228,60.48
+111,Kapps Hotel,Lüderitz,Namibia,phone not provided,website not provided,email not provided,-26.6488497,15.1545118,few clouds,228,60.48
+112,富華粵海酒店 Fu Hua Guang Dong Hotel,Santo António,China,phone not provided,website not provided,email not provided,22.20242245,113.54696598110834,few clouds,233,67.8
+113,新金門賓館 Pensão New Golden Gate,Santo António,China,phone not provided,website not provided,email not provided,22.2047599,113.54695476310111,few clouds,233,67.8
+114,Kuryk,Құрық,Kazakhstan,phone not provided,website not provided,email not provided,43.1789774,51.6725699,overcast clouds,237,50.13
+115,Hotel Deportivo,Rawson,Argentina,phone not provided,website not provided,email not provided,-43.294811,-65.0823054,broken clouds,241,71.71
+116,Hotel Punta León,Rawson,Argentina,phone not provided,website not provided,email not provided,-43.3201518,-65.0487954,broken clouds,241,71.71
+117,Amantaka,Luang Prabang,Laos,phone not provided,website not provided,email not provided,19.88569115,102.1345422289832,clear sky,251,55.27
+118,Jaliya Guesthouse,Viangxai,Laos,phone not provided,website not provided,email not provided,19.884761349999998,102.13571227418626,clear sky,251,55.27
+119,Hotel San Martin,San Juan de los Lagos,Mexico,phone not provided,website not provided,email not provided,21.2427976,-102.331406,clear sky,256,59.38
+120,Hotel San Martin,San Juan de los Lagos,Mexico,phone not provided,website not provided,email not provided,21.2468525,-102.3353877,clear sky,256,59.38
+121,منتزه و نزل الكاهنة,Hazeg,Tunisia,phone not provided,website not provided,email not provided,35.0200752,11.0060635,clear sky,262,57.7
+122,فندق المدينة,Mahdia,Tunisia,phone not provided,website not provided,email not provided,35.5037452,11.0699374,clear sky,262,57.7
+123,Tropic Hotel,Saint-Pierre,France,phone not provided,website not provided,email not provided,-21.341993,55.4785199,clear sky,263,71.56
+124,Saint-Pierre,Saint-Pierre,France,phone not provided,https://www.hotellesaintpierre.fr/,https://www.hotellesaintpierre.fr/,-21.3413402,55.4742003,clear sky,263,71.56
+125,Best Western Plus,Corpus Christi,United States,phone not provided,website not provided,email not provided,27.84915815,-97.57237429852637,few clouds,276,69.69
+126,La Quinta Inn & Suites,Corpus Christi,United States,phone not provided,website not provided,email not provided,27.84774965,-97.57129247602187,few clouds,276,69.69
+127,Hôtel Amine فندق الأمين,Smara,Morocco,phone not provided,website not provided,email not provided,26.7412468,-11.676451,clear sky,278,61.07
+128,Fairfield Inn & Suites by Marriott,Channelview,United States,phone not provided,website not provided,email not provided,29.7777429,-95.12274983270446,few clouds,279,61.0
+129,Comfort Suites,Channelview,United States,+1-281-864-7552,website not provided,email not provided,29.7797793,-95.12295692153644,few clouds,279,61.0
+130,Gold store hotel,Masumbwe,Tanzania,phone not provided,website not provided,email not provided,-3.6483962,32.1683577,overcast clouds,288,63.46
+131,RAHA LODGE,Katente,Tanzania,phone not provided,website not provided,email not provided,-3.4692164500000002,31.899226495348067,overcast clouds,288,63.46
+132,RAHA LODGE,La Manzanilla,Mexico,phone not provided,website not provided,email not provided,19.2878423,-104.7894024,clear sky,297,71.46
+133,Boca de Iguanas,La Huerta,Mexico,[+521] (314) 103-4550,http://bocadeiguanas.com/,http://bocadeiguanas.com/,19.3078873,-104.8191267,clear sky,297,71.46
+134,Kalya Hotel,Makutano,Kenya,phone not provided,website not provided,email not provided,1.2594435,35.0983425,overcast clouds,301,59.02
+135,Bridgestone Inn,Kitale,Kenya,phone not provided,website not provided,email not provided,1.0275485,35.0251834,overcast clouds,301,59.02
+136,Hong Chau Nha Nhgi,Hà Tĩnh,Vietnam,phone not provided,website not provided,email not provided,18.3366189,105.8975225,overcast clouds,302,64.54
+137,Đại Bàng 3,Hà Tĩnh,Vietnam,phone not provided,website not provided,email not provided,18.3283444,105.9043682,overcast clouds,302,64.54
+138,KEKOVA OTEL,Kaş,Turkey,phone not provided,website not provided,email not provided,36.2024833,29.638493,clear sky,306,59.5
+139,neva,Kaş,Turkey,phone not provided,website not provided,email not provided,36.2019876,29.638868,clear sky,306,59.5
+140,Hotel Castelo,Cidreira,Brazil,phone not provided,website not provided,email not provided,-30.1779575,-50.2034734,clear sky,312,70.0
+141,Lagoa Country Club,Cidreira,Brazil,phone not provided,https://www.facebook.com/lagoacidreira/,https://www.facebook.com/lagoacidreira/,-30.168685,-50.2557387,clear sky,312,70.0
+142,Lagoa Country Club,Mutare,Zimbabwe,phone not provided,website not provided,email not provided,-18.90595935,32.690537431376846,moderate rain,317,61.84
+143,Wise Owl Motel,Mutare,Zimbabwe,phone not provided,website not provided,email not provided,-18.95259905,32.65519575268845,moderate rain,317,61.84
+144,Mường Thanh Luxury Song Lam Hotel,Vinh,Vietnam,phone not provided,website not provided,email not provided,18.6680204,105.6737567,overcast clouds,318,63.7
+145,Sai gon Kim Lien,Vinh,Vietnam,phone not provided,website not provided,email not provided,18.6709665,105.6739416,overcast clouds,318,63.7
+146,Bagofit Sun City,Abong-Mbang,Cameroon,660805070,https://www.bagofitsuncity.com/,https://www.bagofitsuncity.com/,4.0120601,13.1019797,overcast clouds,319,69.04
+147,Hoedjesbaai,Saldanha Bay Local Municipality,South Africa,phone not provided,website not provided,email not provided,-33.00784295,17.946017290974016,overcast clouds,324,68.05
+148,Jane's Guesthouse,Saldanha Bay Local Municipality,South Africa,phone not provided,website not provided,email not provided,-33.0035239,17.9477579,overcast clouds,324,68.05
+149,Scenic Hotel Dunedin City,Dunedin,New Zealand,phone not provided,https://www.scenichotelgroup.co.nz/,https://www.scenichotelgroup.co.nz/,-45.8762284,170.5025528,broken clouds,328,58.59
+150,The Law Courts Hotel,Dunedin,New Zealand,phone not provided,website not provided,email not provided,-45.8751496,170.5066466,broken clouds,328,58.59
+151,স্মৃতি রেস্ট হাউজ,Nageshwari,Bangladesh,phone not provided,website not provided,email not provided,25.9654683,89.6917544,clear sky,332,64.09
+152,Mita Rest House মিতা বিশ্রাম হাউস,Kurigram,Bangladesh,phone not provided,website not provided,email not provided,25.8172591,89.650004,clear sky,332,64.09
+153,La Llegada,Andamarca,Peru,phone not provided,website not provided,email not provided,-12.0765071,-75.3351911,overcast clouds,334,55.85
+154,Latidas Hotel,El Tambo,Peru,phone not provided,website not provided,email not provided,-12.04930585,-75.22857050917202,overcast clouds,334,55.85
+155,Sueño del Rey,Padre Márquez,Peru,phone not provided,website not provided,email not provided,-7.7577903,-74.9221159,overcast clouds,336,70.72
+156,Hôtel Bassar,Bikpassiba,Togo,+22890481028,website not provided,email not provided,9.2571463,0.7769007,clear sky,337,69.94
+157,Auberge Délice,Bassar,Togo,phone not provided,website not provided,email not provided,9.2661882,0.7854554,clear sky,337,69.94
+158,Protea Hotel Mossel Bay,Mossel Bay Local Municipality,South Africa,phone not provided,website not provided,email not provided,-34.1799317,22.1428703,overcast clouds,340,58.93
+159,Munro Manor Guest House,Mossel Bay Local Municipality,South Africa,phone not provided,website not provided,email not provided,-34.1805007,22.1385348,overcast clouds,340,58.93
+160,Airborne Inn Lodging,Hammond Hills,United States,phone not provided,website not provided,email not provided,35.1292068,-78.9980524,broken clouds,347,63.19
+161,IHG Army Hotels in Forrestal Hall & Delmont House,Hammond Hills,United States,phone not provided,website not provided,email not provided,35.1290538,-78.9966132,broken clouds,347,63.19
+162,Eridanus,Athens,Greece,phone not provided,website not provided,email not provided,37.9799848,23.7183551,clear sky,363,56.37
+163,The House,Athens,Greece,+302103457765,https://thehouseathens.com/,https://thehouseathens.com/,37.9797721,23.7135552,clear sky,363,56.37
+164,Kainantu Lodge,Kainantu,Papua New Guinea,+6753731020,website not provided,email not provided,-6.28664725,145.8646633769186,overcast clouds,365,71.01
+165,大新旅館,Choshi,Japan,phone not provided,website not provided,email not provided,35.7344474,140.8323632,overcast clouds,374,50.29
+166,あけぼの旅館,Choshi,Japan,phone not provided,website not provided,email not provided,35.735397,140.8300443,overcast clouds,374,50.29
+167,Cabañas Cascadas Encantadas,Tres Lunas,Mexico,(+52) 55 8920 2780,https://cabanascascadasencantadas.com/como-llegar/,https://cabanascascadasencantadas.com/como-llegar/,18.3687467,-95.0261807,overcast clouds,376,70.75
+168,...,El Freno,Mexico,phone not provided,website not provided,email not provided,18.3924089,-95.0116072,overcast clouds,376,70.75
+169,Hospedaje Eco,Lagunas,Peru,+51 65 503703;+51 971831799,website not provided,email not provided,-5.2256765,-75.6750558,overcast clouds,380,71.42
+170,Hospedaje Lagunas,Lagunas,Peru,+51 65 503783,website not provided,email not provided,-5.2255191,-75.6753379,overcast clouds,380,71.42
+171,Atlantic,Walvis Bay,Namibia,phone not provided,website not provided,email not provided,-22.9566597,14.5012482,clear sky,384,65.35
+172,Protea Hotel Walvis Bay,Walvis Bay,Namibia,phone not provided,website not provided,email not provided,-22.9575375,14.4999821,clear sky,384,65.35
+173,Hotel Temático do Banco Azul,Fisterra,Spain,phone not provided,https://hoteldobancoazul.com,https://hoteldobancoazul.com,42.9056686,-9.2618248,light rain,389,56.75
+174,Hotel Costa da Morte,Fisterra,Spain,+34 981192543,https://www.hotelcostadamorte.net,https://www.hotelcostadamorte.net,42.9053487,-9.2644037,light rain,389,56.75
+175,Casa da Madrinha,São Mateus,Portugal,phone not provided,website not provided,email not provided,39.0472521,-27.9793933,scattered clouds,391,59.2
+176,Moinho de Pedra,São Mateus,Portugal,phone not provided,website not provided,email not provided,39.0555446,-27.9702982,scattered clouds,391,59.2
+177,Hotel Agamenon,es Castell,Spain,phone not provided,website not provided,email not provided,39.8827242,4.2863669,few clouds,396,54.28
+178,Hotel Agamenon,es Castell,Spain,phone not provided,https://www.sethotels.com/es/hotel-agamenon-menorca.php,https://www.sethotels.com/es/hotel-agamenon-menorca.php,39.88303115,4.286325008059238,few clouds,396,54.28
+179,BEST WESTERN Plus Huntersville Inn & Suites Near Lake Norman,Huntersville,United States,phone not provided,website not provided,email not provided,35.406091599999996,-80.85329594574134,overcast clouds,399,57.31
+180,Comfort Suites Lake Norman - Huntersville,Huntersville,United States,phone not provided,website not provided,email not provided,35.41495405,-80.85457776437147,overcast clouds,399,57.31
+181,Hotel Shiva,Bhagalpur,India,phone not provided,website not provided,email not provided,25.2426394,86.9751369,clear sky,405,61.02
+182,La Portada,Pisco,Peru,phone not provided,website not provided,email not provided,-13.707727,-76.2052654,overcast clouds,406,70.56
+183,La Hosteria del Monasterio,Pisco,Peru,phone not provided,website not provided,email not provided,-13.7093714,-76.2057197,overcast clouds,406,70.56
+184,Durrant House Hotel,Torridge District,United Kingdom,phone not provided,https://durranthousehotel.com/,https://durranthousehotel.com/,51.0337962,-4.211917193162417,few clouds,408,52.39
+185,Riversford Hotel,Torridge District,United Kingdom,phone not provided,http://www.riversford.co.uk/,http://www.riversford.co.uk/,51.0315669,-4.205734700596829,few clouds,408,52.39
+186,Amanpuri Travellers Lodge,Swakopmund,Namibia,phone not provided,website not provided,email not provided,-22.6800584,14.5338308,scattered clouds,409,65.25
+187,Sam's Giardino,Swakopmund,Namibia,+264-64-403210,http://www.giardinonamibia.com/,http://www.giardinonamibia.com/,-22.6805326,14.5367303,scattered clouds,409,65.25
+188,Ghanzi farmhouse,D'kar,Botswana,+267 74960192,http://ghanzifarmhouse.com/,http://ghanzifarmhouse.com/,-21.5711655,21.7735653,broken clouds,414,69.48
+189,Dqae Qare Game Farm,Ghanzi,Botswana,+267 72 527 321,website not provided,email not provided,-21.635365399999998,21.817952788917307,broken clouds,414,69.48
+190,Yuzana Aung Motel 1,Sittwe Township,Myanmar,09691188122,website not provided,email not provided,20.1463845,92.9010193,clear sky,416,68.16
+191,Yuzana Aung Hotel 2,Sittwe Township,Myanmar,phone not provided,website not provided,email not provided,20.146036,92.9019769,clear sky,416,68.16
+192,Milkwood Manor,Bitou Local Municipality,South Africa,+27 44 533 0420,http://www.milkwoodmanor.co.za,http://www.milkwoodmanor.co.za,-34.0501822,23.3759842,overcast clouds,417,64.44
+193,Beacon Island Resort,Bitou Local Municipality,South Africa,+27 44 533 1120,http://www.tsogosunhotels.com/resorts/beacon-island/,http://www.tsogosunhotels.com/resorts/beacon-island/,-34.060842,23.37961879130358,overcast clouds,417,64.44
+194,Kasane Travel Lodge,Kasane,Botswana,phone not provided,website not provided,email not provided,-17.813710899999997,25.15446624485513,light rain,418,67.59
+195,Travelodge,Kasane,Botswana,phone not provided,website not provided,email not provided,-17.8135638,25.1545073,light rain,418,67.59
+196,Hôtel comfort,Oyem,Gabon,phone not provided,website not provided,email not provided,1.5999438,11.5772158,broken clouds,419,70.43
+197,Hôtel Mvet Palace,Oyem,Gabon,011 98 63 01,website not provided,email not provided,1.6022823,11.576103,broken clouds,419,70.43
+198,Brandon Motor Lodge,Brandon,United States,phone not provided,https://www.brandonmotorlodgefl.com,https://www.brandonmotorlodgefl.com,27.938291800000002,-82.2706389,overcast clouds,420,65.28
+199,Holiday Inn Express Tampa-Brandon,Brandon,United States,phone not provided,website not provided,email not provided,27.9464561,-82.32666979071477,overcast clouds,420,65.28
+200,فندق الكيلانى,Siwa Oasis,Egypt,phone not provided,website not provided,email not provided,29.202476,25.5206787,few clouds,421,58.75
+201,لوج الباب إنشال,Siwa Oasis,Egypt,phone not provided,website not provided,email not provided,29.2016171,25.5199809,few clouds,421,58.75
+202,Hôtel l'Afamba,Sangmélima,Cameroon,phone not provided,website not provided,email not provided,2.93857285,11.976037777092401,overcast clouds,424,69.84
+203,Rock Farm Ndonkol,Meyomessala,Cameroon,phone not provided,website not provided,email not provided,3.1554129,12.1205096,overcast clouds,424,69.84
+204,Marfil del Amazonas,Iquitos,Peru,phone not provided,website not provided,email not provided,-3.7476132,-73.2469273,broken clouds,431,71.1
+205,THE LIGHT OF THE JUNGLE,Iquitos,Peru,phone not provided,https://www.booking.com/Share-Nl6U5A,https://www.booking.com/Share-Nl6U5A,-3.7469095,-73.2472075,broken clouds,431,71.1
+206,Casa de Piedra,Trevelin,Argentina,phone not provided,website not provided,email not provided,-43.0800854,-71.46239465332518,broken clouds,433,71.08
+207,Los Cuatro Vientos,Trevelin,Argentina,phone not provided,website not provided,email not provided,-43.0807022,-71.4563412,broken clouds,433,71.08
+208,Hotel Playa de Luanco,Gozón,Spain,+34 985 883 555,http://www.hotelplayadeluanco.com/,http://www.hotelplayadeluanco.com/,43.6154292,-5.7911173,overcast clouds,436,54.01
+209,La Estación de Luanco,Gozón,Spain,phone not provided,https://www.hotellaestaciondeluanco.com/,https://www.hotellaestaciondeluanco.com/,43.61327155,-5.79325775645378,overcast clouds,436,54.01
+210,فندق عين الفارس,Ghadames,Libya,phone not provided,website not provided,email not provided,30.1335925,9.4948978,broken clouds,437,60.01
+211,Hotel Bab Al-Fatah,Ghadames,Libya,phone not provided,website not provided,email not provided,30.1294113,9.4957329,broken clouds,437,60.01
+212,Grand Hotel,Whangārei,New Zealand,phone not provided,website not provided,email not provided,-35.7265772,174.3194086,overcast clouds,440,71.6
+213,Kingsgate Hotel,Whangārei,New Zealand,phone not provided,website not provided,email not provided,-35.72342355,174.3278009071513,overcast clouds,440,71.6
+214,Kingsgate Hotel,Pirané,Argentina,phone not provided,website not provided,email not provided,-25.7310432,-59.1064393,broken clouds,441,70.95
+215,Hotel Estrella,Pirané,Argentina,(0370) 446 1329,website not provided,email not provided,-25.7381146,-59.1106784,broken clouds,441,70.95
+216,Econo Lodge,Fermanagh Township,United States,phone not provided,website not provided,email not provided,40.5791479,-77.3738221,light rain,442,50.63
+217,Wyndham Garden,Boalsburg,United States,+1-814-466-2255,https://www.wyndhamhotels.com/wyndham-garden/boalsburg-pennsylvania/wy-garden-state-college/overview,https://www.wyndhamhotels.com/wyndham-garden/boalsburg-pennsylvania/wy-garden-state-college/overview,40.78493985,-77.76087202605575,light rain,442,50.63
+218,Casa Madrigal,Pasto,Colombia,phone not provided,website not provided,email not provided,1.2149209,-77.2815507,moderate rain,446,55.56
+219,Hotel Don Saúl,Pasto,Colombia,phone not provided,website not provided,email not provided,1.21337,-77.279148,moderate rain,446,55.56
+220,Khoroni Hotel Casino and Convention Resort,Thulamela Local Municipality,South Africa,phone not provided,website not provided,email not provided,-22.96918075,30.455225671315702,overcast clouds,451,62.96
+221,Club Recreativo Armada de Chile,Talcahuano,Chile,phone not provided,website not provided,email not provided,-36.6842302,-73.1143892,overcast clouds,452,57.9
+222,MDS Hotel Concepción,Talcahuano,Chile,phone not provided,website not provided,email not provided,-36.7766652,-73.0740981,overcast clouds,452,57.9
+223,Holiday Inn,Johnstown,United States,phone not provided,website not provided,email not provided,40.3250226,-78.92102404648426,fog,454,50.77
+224,Holiday Inn Express,Richland Township,United States,phone not provided,website not provided,email not provided,40.2713303,-78.85964623650511,fog,454,50.77
+225,Solpor do Coído,Muxía,Spain,phone not provided,website not provided,email not provided,43.1034602,-9.2171088,overcast clouds,456,56.91
+226,A de Loló,Muxía,Spain,phone not provided,website not provided,email not provided,43.1067723,-9.217456,overcast clouds,456,56.91
+227,พิมายอินน์,Phimai,Thailand,phone not provided,website not provided,email not provided,15.2102875,102.48668465,clear sky,459,62.98
+228,พิมายโฮเต็ล,Phimai,Thailand,phone not provided,website not provided,email not provided,15.2161905,102.4952337,clear sky,459,62.98
+229,The Traveler's Hotel,Salinas,United States,831.758.1198,http://travelershotel.net/,http://travelershotel.net/,36.6755063,-121.65440912966375,broken clouds,464,65.01
+230,Howard Johnson by Wyndham Salinas,Salinas,United States,phone not provided,website not provided,email not provided,36.67043615,-121.6506480409268,broken clouds,464,65.01
+231,City Plaza Hotel,Gwalior,India,phone not provided,website not provided,email not provided,26.207112,78.1633191,scattered clouds,466,51.71
+232,Hotel City Plaza,Gwalior,India,+91-7509021711,website not provided,email not provided,26.2069311,78.1633514,scattered clouds,466,51.71
+233,Fatima hotel,Musanze,Rwanda,phone not provided,website not provided,email not provided,-1.5004514,29.633412758400464,overcast clouds,471,58.51
+234,Hotel Muhabura,Musanze,Rwanda,+250 788 364774,http://www.muhaburahotel.com/,http://www.muhaburahotel.com/,-1.5001733,29.6327104,overcast clouds,471,58.51
+235,Hotel Vila Moura Executivo,Rio Grande,Brazil,phone not provided,website not provided,email not provided,-32.0347743,-52.098297268138424,scattered clouds,474,69.91
+236,Hotel Vila Moura,Rio Grande,Brazil,phone not provided,website not provided,email not provided,-32.032293,-52.0978684,scattered clouds,474,69.91
+237,Alerces,Chuy,Uruguay,phone not provided,website not provided,email not provided,-33.6960979,-53.4561576,scattered clouds,477,65.84
+238,Hospedaje Atlántico,Chuy,Uruguay,phone not provided,website not provided,email not provided,-33.6948681,-53.4566586,scattered clouds,477,65.84
+239,Hampton Inn & Suites,Patterson,United States,phone not provided,website not provided,email not provided,37.4651402,-121.1669681873876,overcast clouds,485,58.98
+240,Westley Hotel,Westley,United States,phone not provided,website not provided,email not provided,37.549582099999995,-121.20024576032432,overcast clouds,485,58.98
+241,فندق المدينة-سرت,Sirte,Libya,phone not provided,website not provided,email not provided,31.2064062,16.5889954,clear sky,492,59.61
+242,فندق أفريقيا سرت,Sirte,Libya,phone not provided,website not provided,email not provided,31.2067485,16.5843082,clear sky,492,59.61
+243,Pampa,Vacaria,Brazil,phone not provided,website not provided,email not provided,-28.5054942,-50.939601,clear sky,494,56.39
+244,Pousada de Zeus,Vacaria,Brazil,phone not provided,website not provided,email not provided,-28.5062691,-50.9430563,clear sky,494,56.39
+245,Mega Food Hotel,Tsiroanomandidy,Madagascar,phone not provided,website not provided,email not provided,-18.7698197,46.0467841,overcast clouds,496,70.72
+246,Nirina Hotel,Tsiroanomandidy,Madagascar,phone not provided,website not provided,email not provided,-18.7705902,46.0472139,overcast clouds,496,70.72
+247,Watson's Regency Suites,Ocean City,United States,(609) 398-4300,https://watsonsregency.com/,https://watsonsregency.com/,39.27644665,-74.57397180885242,overcast clouds,498,54.01
+248,Impala Island Inn,Ocean City,United States,+1 609-399-7500,http://impalaislandinn.com,http://impalaislandinn.com,39.27540945,-74.57566460599728,overcast clouds,498,54.01
+249,Los Olmos,Puerto Deseado,Argentina,phone not provided,website not provided,email not provided,-47.7522432,-65.8909923,broken clouds,503,55.99
+250,Hotel Isla Chaffers,Puerto Deseado,Argentina,phone not provided,website not provided,email not provided,-47.75259,-65.89737145672746,broken clouds,503,55.99
+251,Hotel valencia,Nouadhibou,Mauritania,phone not provided,website not provided,email not provided,20.9382416,-17.0346639,clear sky,505,71.58
+252,Hotel valencia,Nouadhibou,Mauritania,phone not provided,website not provided,email not provided,20.9386248,-17.0344141,clear sky,505,71.58
+253,White Rock Hotel,St Leonards,United Kingdom,phone not provided,website not provided,email not provided,50.8538454,0.573003022301487,overcast clouds,509,53.98
+254,Chatsworth Hotel,St Leonards,United Kingdom,phone not provided,website not provided,email not provided,50.8545914,0.5774415,overcast clouds,509,53.98
+255,Chatsworth Hotel,Itoman,Japan,phone not provided,website not provided,email not provided,26.13220135,127.65292560131385,broken clouds,512,69.82
+256,ホテルスポーツロッジ糸満,Itoman,Japan,phone not provided,website not provided,email not provided,26.146771649999998,127.66084183774204,broken clouds,512,69.82
+257,Aane Hotel,Pasighat,India,phone not provided,website not provided,email not provided,28.062567,95.3292071,clear sky,514,57.52
+258,Serene Hotel,Pasighat,India,phone not provided,website not provided,email not provided,28.0600456,95.3336398,clear sky,514,57.52
+259,Wasserturm Hotel Cologne,Cologne,Germany,+49 221 2008 0,https://www.wasserturm-hotel-cologne.com,https://www.wasserturm-hotel-cologne.com,50.931609449999996,6.951625453036969,light rain,521,50.97
+260,Motel One Köln-Neumarkt,Cologne,Germany,+49 221 292692 0,https://www.motel-one.com/de/hotels/koeln/hotel-koeln-neumarkt/,https://www.motel-one.com/de/hotels/koeln/hotel-koeln-neumarkt/,50.9358428,6.951148216353712,light rain,521,50.97
+261,SUN1 Richards Bay,Richards Bay,South Africa,+27 35 789 1001,https://www.southernsun.com/sun1-richards-bay?utm_source=openstreetmaps&utm_medium=businesslisting&utm_campaign=hotel_sun1-richards-bay,https://www.southernsun.com/sun1-richards-bay?utm_source=openstreetmaps&utm_medium=businesslisting&utm_campaign=hotel_sun1-richards-bay,-28.7521816,32.05550557288396,few clouds,524,63.36
+262,Bon Hotel Waterfront,Richards Bay,South Africa,phone not provided,website not provided,email not provided,-28.7932035,32.0808188,few clouds,524,63.36
