@@ -7,7 +7,7 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-h1 {
+h2 {
 	padding: 30px 00px 20px 0px;
 }
 h4 {
@@ -62,3 +62,12 @@ blockquote:before {
     background: linear-gradient(to right, #e3e4e5, #cccfd1); 
     text-align:center;
 }
+
+
+.responsive-iframe {
+	width: 90%;
+	height: 90%;
+	min-height: 80vh; 
+  }
+
+
