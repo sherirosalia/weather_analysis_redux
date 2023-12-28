@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 import pprint as pp
 from api_keys import geoapify_key
-print(geoapify_key)
+# print(geoapify_key)
 
 
 
@@ -31,12 +31,26 @@ print(geoapify_key)
 #         pp.pprint(name)
 
 
-''' Get hotels near cities which was created in VacationPy script (see Jupyter notebook folder)'''
-curated_csv=pd.read_csv('output/curated_cities.csv', index_col=False)
-selected_df=pd.DataFrame(curated_csv)
+''' Get hotels near cities which was created in cities_data_retrieval.py,
+this file has more information than the similarly named created in Jupyter Notebook'''
+csv=pd.read_csv('python_api_scripts/output/cities_weather.csv', index_col=False)
+df=pd.DataFrame(csv)
+# print(df.sample())
+
+curated=df.loc[(df['Max Temp']>= 50) & (df['Max Temp'] <72)]
+# print(len(curated))
+
+curated.to_csv('python_api_scripts/output/curated_cities.csv', index=False)
+selected_df=pd.read_csv('python_api_scripts/output/curated_cities.csv', index_col=None)
+print(selected_df.sample())
+
+
 # print(f'count of cities csv: {len(selected_df)}')
 # print(selected_df.sample(3))
 print(selected_df.columns)
+
+## send to csv file
+# selected_df.to_csv('python_api_scripts/output/curated_cities.csv')
 
 categories='accommodation.hotel'
 radius=100000        
@@ -48,7 +62,7 @@ for index, row in selected_df.iterrows():
     # print(index)
     # print(row)
     city_id=row['City_ID']
-    temp=row['Max Temp (f)']
+    temp=row['Max Temp']
     description=row['Description']
     latitude=row['City Lat']
     longitude=row['City Lon']
@@ -117,8 +131,10 @@ for index, row in selected_df.iterrows():
             
 ### export hotels information to CSV to be displayed in Leaflet, see app.js file
 hotel_df=pd.DataFrame(hotel_list)
-hotel_df.to_csv('output/hotels_near_cities.csv')
 print(hotel_df.sample(5))
+print('sending to csv')
+hotel_df.to_csv('python_api_scripts/output/hotels_near_cities.csv')
+
 
 
 

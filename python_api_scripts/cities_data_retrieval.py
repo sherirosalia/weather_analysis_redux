@@ -5,6 +5,7 @@ import numpy as np
 import requests
 from citipy import citipy
 from api_keys import weather_api_key
+print(weather_api_key)
 
 import pprint as pp
 
@@ -36,21 +37,16 @@ for coords in lat_lngs:
 #check count of cities
 print(len(cities))
 
-# # test json response for weather api
-# # units='imperial'
-# # weather_url=f'https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}&units={units}'
-# # from api_keys import weather_api_key
-
 # # test lat/lon for fairhope,alabama 30.5230° N, 87.9033° W
-# weather_api_key="3974be9fa6e0d0ba48004fb47c9abbeb"
-units='imperial'
-api_key=weather_api_key
-lat=30.5230
-lon=-87.9033
+
+# units='imperial'
+# api_key=weather_api_key
+# lat=30.5230
+# lon=-87.9033
 
 ## TEST ##
-#weather api url
-# url=f'https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}&units={units}'
+# weather api url
+# url=f'https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={weather_api_key}&units={units}'
 # # url=f'https://api.openweathermap.org/data/2.5/weather?{params}'
 # response=requests.get(url)
 # fairhope_weather=response.json()
@@ -66,7 +62,7 @@ lon=-87.9033
 # humidity=info['main']['humidity']
 # clouds=info['clouds']['all']
 # wind = info['wind']['speed']
-# # city_name=info['City']
+# # city_name=info['name']
 # country=info['sys']['country']
 # city_date=info['dt']
 # # dictionary of retrieved data
@@ -86,7 +82,7 @@ lon=-87.9033
 # pp.pprint(city_data_dict)
 # exit()
 
-'''gathering weather information in metric, will create conversion column to farenheit in jupyter notebook VacationPy'''
+
 city_data=[]
 record_groups=1
 records_attempt=1
@@ -96,18 +92,20 @@ for index, city in enumerate(cities):
     if (index % 50 == 0 ) and (index >=50):        
         record_groups+1
         records_attempt=0
-    # print(f'{city} is the {records_attempt} attempt and resulting datapoint for the {record_groups} group of api query attempted')
+    print(f'{city} is the {records_attempt} attempt and resulting datapoint for the {record_groups} group of api query attempted')
 
 
     # url call based on city name alone, no lat and lon required
     ## source: https://stackoverflow.com/questions/65373299/how-can-i-use-city-name-instead-of-lat-and-log-in-openweather-api
     # api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-    base_url = f"http://api.openweathermap.org/data/2.5/weather?units=Metric&APPID={weather_api_key}"
+        
+    # url = f"http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID={weather_api_key}"
 
     try:
-        url=f'{base_url}&q={city}'
+        # url=f'{base_url}&q={city}'
         # url=f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={weather_api_key}'
-        # url=f'https://api.openweathermap.org/data/2.5/weather?q={city}&APPID={weather_api_key}'
+        units='imperial'
+        url=f'https://api.openweathermap.org/data/2.5/weather?q={city}&APPID={weather_api_key}&units={units}'
         response=requests.get(url)
         # print(response.url)
         info=response.json()
@@ -128,17 +126,21 @@ for index, city in enumerate(cities):
         # print(clouds)
         wind = info['wind']['speed']
         # print(wind)        
-        city_name=info['City']
+        city_name=info['name']
         print(city_name)
-        country=info['sys']['country']
-        print(country)
+        try:
+            country=info['sys']['country']
+            print(country)
+        except:
+            country=None
+        
         city_date=info['dt']
         # print(city_date)
 
         # dictionary 
         city_data_info={
             "City Name": city_name,
-            "Country": country,
+            # "Country": country,
             "City Lat":latitude,
             "City Lon" :longitude,
             "Max Temp" : max_temp,
@@ -149,12 +151,12 @@ for index, city in enumerate(cities):
             "Description": desc,
 
         }
-        print(city_data_info)
+        pp.pprint(city_data_info)
         city_data.append(city_data_info)
-        # print(city_name, country, wind)
+        print(city_name, country, wind)
         
     except:
-        # print(f'url for {city} not found, skipping!')
+        print(f'url for {city} not found, skipping!')
         pass
 
 
@@ -168,7 +170,7 @@ print(f'found in total: {len(city_data)} different city weather records')
 print('------------------------------------------------------------------')
 print('sending to csv')
 df=pd.DataFrame(city_data)
-df.to_csv('output/cities_weather.csv',index_label="City_ID")
+df.to_csv('python_api_scripts/output/cities_weather.csv',index_label="City_ID")
 
 
 

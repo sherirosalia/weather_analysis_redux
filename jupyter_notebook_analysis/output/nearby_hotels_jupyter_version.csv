@@ -1,0 +1,183 @@
+City Name,Country,City Lat,City Lon,Humidity,Hotel Name,Hotel Address
+Mwinilunga,ZM,-11.7358,24.4293,99,name not found,address not found
+Blackmans Bay,AU,-43.0167,147.3167,78,Villa Howden,"Howden Road, Hobart TAS 7055, Australia"
+Taoudenni,ML,22.6783,-3.9836,10,name not found,address not found
+Mount Gambier,AU,-37.8333,140.7667,65,The Old Mount Gambier Gaol,"Langlois Place, Mount Gambier SA 5290, Australia"
+Jiazi,CN,22.8779,116.067,82,name not found,address not found
+Sonoita,MX,31.85,-112.8333,17,name not found,address not found
+Lincoln City,US,44.9582,-124.0179,88,Inn at Lincoln City,"1091 Southeast 1st Street, Lincoln City, OR 97367, United States of America"
+Waitangi,NZ,-43.9535,-176.5597,62,Hotel Chathams,"1 Waitangi Wharf Owenga Road, Waitangi 8942, New Zealand"
+Māngrol,IN,21.1167,70.1167,42,name not found,address not found
+Marsá Maţrūḩ,EG,31.3525,27.2453,77,صقور,"Alexandria Street, Madara, Marsa Matruh, 51511, Egypt"
+Papatowai,NZ,-46.5619,169.4708,66,name not found,address not found
+Port Lincoln,AU,-34.7333,135.8667,77,Boston Hotel,"19-21 King Street, Port Lincoln SA 5606, Australia"
+Edinburgh of the Seven Seas,SH,-37.0676,-12.3116,93,name not found,address not found
+Tamanghasset,DZ,22.785,5.5228,17,فندق الأمان,"شارع الجيلالي بونعامة, 11000 Tamanghasset, Algeria"
+Chikitigarh,IN,19.2,84.6167,88,name not found,address not found
+Gouré,NE,13.9835,10.2704,27,name not found,address not found
+Katsuura,JP,35.1333,140.3,82,潮騒の宿,"16 勝浦港線, Hamakatsuura, Katsuura, 299-5233, Japan"
+Praia da Vitória,PT,38.7333,-27.0667,87,Salles,"Travessa do Quartel, 9760-411 Praia da Vitória, Portugal"
+Chongwe,ZM,-15.3292,28.682,94,name not found,address not found
+Dwārka,IN,22.2394,68.9678,51,The Dwarika Hotel,"NH51, Devbhumi Dwarka - 361335, Gujarat, India"
+Bredasdorp,ZA,-34.5322,20.0403,83,Victoria Hotel,"10 Church Street, Cape Agulhas Ward 4, Cape Agulhas Local Municipality, 7280, South Africa"
+Hermanus,ZA,-34.4187,19.2345,79,Aloe guest house,"Main Road, Overstrand Ward 3, Overstrand Local Municipality, 7200, South Africa"
+Quellón,CL,-43.1167,-73.6167,83,Aliwen,"Juan Ladrillero, 579 0000 Quellón, Chile"
+Lebu,CL,-37.6167,-73.65,82,name not found,address not found
+Ramnagar,IN,29.4,79.1167,63,Hotel Corbett Kingdom,"NH309, Rāmnagar - 244715, Uttarakhand, India"
+Asilah,MA,35.465,-6.0348,83,Hotel Las Palmas,"Avenue Iman Al-Assili, 90055 Asilah, Morocco"
+Chamber,PK,25.2931,68.812,32,name not found,address not found
+Ribeira Grande,PT,38.5167,-28.7,82,Hospedaria JSF,"Rua Antiga Canada do Porto Pim, 9900-038 Horta, Portugal"
+Galveston,US,29.3669,-94.9669,32,Comfort Inn & Suites Texas City,"320 36th Street North, Texas City, TX 77590, United States of America"
+Cologne,DE,50.9333,6.95,64,Wasserturm Hotel Cologne,"Kaygasse 2, 50676 Cologne, Germany"
+Sungai Penuh,ID,-2.0833,101.3833,97,Hotel Matahari,"Jalan Jenderal Ahmad Yani, Sungai Penuh 37174, Jambi, Indonesia"
+Māgadi,IN,12.9667,77.2333,85,Udupi Upahara,"SH85, Hosapete - 562120, Karnataka, India"
+Jamestown,US,42.097,-79.2353,100,DoubleTree Jamestown,"150 West 4th Street, Jamestown, NY 14701, United States of America"
+Minas de Marcona,PE,-15.2119,-75.1103,85,name not found,address not found
+Beeville,US,28.4008,-97.7483,33,La Quinta by Wyndham,"2062 US 59, Beeville, TX 78102, United States of America"
+Crowley,US,30.2141,-92.3746,60,name not found,address not found
+Invercargill,NZ,-46.4,168.35,67,The Grand,"76 Dee Street, Avenal, Invercargill City 9810, New Zealand"
+San Sebastián de La Gomera,ES,28.0916,-17.1133,54,Hotel Villa Gomera,"Calle Ruiz de Padrón, 68, 38800 San Sebastián de la Gomera, Spain"
+Syra,GR,37.4423,24.9425,68,Παλλάδιον,"Stamatiou Proiou, 841 00 Ermoupoli, Greece"
+Puerto Deseado,AR,-47.7503,-65.8938,56,Los Olmos,"Gobernador Gregores, Quinta Cadario, 9050 Puerto Deseado, Argentina"
+Dunedin,NZ,-45.8742,170.5036,91,Scenic Hotel Dunedin City,"Princes Street, Dunedin Central, Dunedin 9054, New Zealand"
+Biltine,TD,14.5333,20.9167,23,فندق ثلاث نجوم بلتن,"Abeche - Biltine National Road, Biltine, Chad"
+Dakhla,EH,23.6848,-15.958,60,Hotel El Massira,"شارع المسجد, Dakhla, Morocco"
+Vancleave,US,30.5405,-88.6875,77,name not found,address not found
+Chonchi,CL,-42.6128,-73.8092,72,Hotel Huildín,"Centenario, Chonchi, Chile"
+Nago,JP,26.5881,127.9761,72,グリーンリッチホテル,"National Highway Route 58, Nago, Gusuku 3-chome 905-8540, Japan"
+Margaret River,AU,-33.95,115.0667,72,Margaret River Hotel,"125 Bussell Highway, Margaret River WA 6285, Australia"
+Fada,NG,9.5667,8.3,27,name not found,address not found
+Mistrató,CO,5.2973,-75.8832,98,Hotel Guntras,"Carrera 6, Mistrató, RIS, Colombia"
+Tinajo,ES,29.0788,-13.7081,77,Villas Tinajo,"Calle Laja del Sol, 9, 35560 Tinajo, Spain"
+Saurimo,AO,-9.6608,20.3916,99,Complexo Hoteleiro de Saurimo,"Rua da Liberdade, Saurimo, Angola"
+East London,ZA,-33.0153,27.9116,85,name not found,"Quigney, East London, 5201, South Africa"
+Itiruçu,BR,-13.5317,-40.1503,85,name not found,"Jaguaquara - BA, 45345-000, Brazil"
+Dawei,MM,14.0833,98.2,67,Royal Dawei ဟိုတယ်,"Say Yone Road, Dawei, 14001, Myanmar"
+Lompoc,US,34.6391,-120.4579,72,Embassy Suites by Hilton Lompoc Central Coast,"1117 North H Street, Lompoc, CA 93436, United States of America"
+Howrah,IN,22.5892,88.3103,88,Sun India Guest House,"Grand Trunk Road, Howrah Maidan, Howrah - 711106, West Bengal, India"
+Massakory,TD,12.996,15.7293,19,name not found,address not found
+Gēdo,ET,9.0167,37.45,61,ጨሊያ ሆቴል,"Nekemte - Ambo Road, Gedo, Ethiopia"
+Tura,IN,25.5198,90.2201,82,name not found,address not found
+Al Mishkhāb,IQ,31.8042,44.4911,85,خال رسول,"Al Touli Street, Al-Hirah, Iraq"
+Greymouth,NZ,-42.4667,171.2,65,Recreation Hotel,"High Street, Wharemoa, Greymouth 7085, New Zealand"
+Malango,ID,-2.9627,119.9001,94,Madarana,"Jalan Andi Mappanyuki, Buntu Barana 91832, South Sulawesi, Indonesia"
+Illizi,DZ,26.4833,8.4667,25,بوناقة,"شارع الأمير عبد القادر, 33000 Illizi, Algeria"
+Brandon,US,27.9378,-82.2859,74,Brandon Motor Lodge,"906 East Brandon Boulevard, Brandon, FL 33511, United States of America"
+Ancud,CL,-41.8697,-73.8203,74,Cabañas,"Federico Errázuriz, 130 0000 Ancud, Chile"
+Verāval,IN,20.9,70.3667,41,Shyam,"ST Bus Stand Road, Veraval - 362200, Gujarat, India"
+Salalah,OM,17.0151,54.0924,53,Muscat International Hotel,"23rd July Street, 999, Salalah, Dhofar Governorate, Oman"
+Adler,RU,43.43,39.92,66,Shine,"Lenin Street 63, Adler, Sochi, Krasnodar Krai, Russia, 354340"
+Al Ḩāmūl,EG,31.3115,31.1477,89,name not found,address not found
+Douentza,ML,14.9951,-2.9517,12,name not found,address not found
+Paso del Macho,MX,18.9667,-96.7167,87,name not found,address not found
+Rāhuri,IN,19.3833,74.65,44,name not found,address not found
+Kill Devil Hills,US,36.0307,-75.676,100,Mariner Days Inn & Suites,"North Virginia Dare Trail, Kill Devil Hills, NC 27948, United States of America"
+Naze,JP,28.3667,129.4833,67,ビジネス旅館畠山,"屋仁川通り, Naze-Kanekucho, Amami, Japan"
+Murzuk,LY,25.9155,13.9184,50,فندق باريس - مرزق,"ubari-murzuq, Murzuq, Libya"
+Rāwah,IQ,34.4816,41.9093,61,name not found,address not found
+Port Elizabeth,ZA,-33.918,25.5701,88,Waterford Hotel,"Durban Road, Nelson Mandela Bay Ward 11, Gqeberha, 7162, South Africa"
+Jijiga,ET,9.35,42.8,57,Africa Hotel,"4, Jijiga, Ethiopia"
+Broome,US,42.2506,-75.833,97,name not found,address not found
+Huarmey,PE,-10.0681,-78.1522,83,Hostal Santa Rosa,"Avenida Aija, Huarmey, Peru"
+Rāy,IN,23.6833,85.05,70,name not found,address not found
+Castillos,UY,-34.1667,-53.8333,71,A mi gente,"Juan Antonio Lavalleja, 27200 Castillos, Uruguay"
+Sidi Ifni,MA,29.3797,-10.173,41,Hotel Ére Nouvelle,"Avenue Al Adarissa, 85200 Sidi Ifni, Morocco"
+Milas,TR,37.3164,27.7839,100,Eldehan Otel,"19 Mayıs Bulvarı 1, 48200 Milas, Turkey"
+Trujillo,PE,-8.116,-79.03,88,Hostal Ayacucho,"Jirón Ayacucho, Trujillo 13006, Peru"
+New Norfolk,AU,-42.7826,147.0587,57,Woodbridge on the Derwent,"Lyell Highway, New Norfolk TAS, Australia"
+La Passe,FR,45.5549,-0.8967,81,L'Estuaire,"Avenue de l'Estuaire, 17120 Talmont-sur-Gironde, France"
+Mendi,PG,-6.1761,143.6513,82,Kiburu Lodge,"Tari Highway, Southern Highlands, Papua New Guinea"
+Saint Lawrence,MT,36.0553,14.204,65,Ta Majsi,"Triq Wied Merill, Saint Lawrence, SLZ 1040, Malta"
+Menongue,AO,-14.6585,17.691,86,name not found,"Iaonga, Angola"
+Horta,PT,38.5333,-28.6333,82,Azoris Faial Garden - Resort Hotel,"Rua Cônsul Dabney, 9901-856 Horta, Portugal"
+Finisterra,ES,42.9049,-9.2629,95,Hotel Temático do Banco Azul,"Rúa Pescadores, 15155 Fisterra, Spain"
+Leiston,GB,52.2061,1.5776,82,White Horse Hotel,"Station Road, East Suffolk, IP16 4HD, United Kingdom"
+Saint-Pierre,RE,-21.3393,55.4781,46,Tropic Hotel,"Rue Auguste Babet, 97410 Saint-Pierre, France"
+Salinas,US,36.6777,-121.6555,66,The Traveler's Hotel,"16, 18 East Gabilan Street, Salinas, CA 93901, United States of America"
+Zaghouan,TN,36.4029,10.1429,86,Les Hirondelles,"شارع الأرض, 1121 Zaghouan Governorate, Tunisia"
+Gunupur,IN,19.0833,83.8167,84,name not found,address not found
+Zalanga,NG,10.6143,10.1765,28,name not found,address not found
+Mazara del Vallo,IT,37.6641,12.588,79,Greta Hotel,"Via Finocchiaro Aprile, 107, 91026 Mazara del Vallo TP, Italy"
+Kruisfontein,ZA,-34.0033,24.7314,87,name not found,address not found
+Saint-Jean-de-Monts,FR,46.7833,-2.0667,82,L'Espadon,"Avenue de la Forêt, 85160 Saint-Jean-de-Monts, France"
+Saldanha,ZA,-33.0117,17.9442,82,Hoedjesbaai,"Main Road, Saldanha Bay Ward 3, Saldanha Bay Local Municipality, 7395, South Africa"
+El Calafate,AR,-50.3408,-72.2768,47,Hostería Las Avutardas,"Avenida del Libertador 1737, Bahía Redonda, Z9405 El Calafate, Argentina"
+Hūn,LY,29.1268,15.9477,36,فندق الهروج,"Omar Al Mukhtar St, Hun, Libya"
+Santa Rosalía,MX,27.3167,-112.2833,34,Sol y Mar,"Carretera Loreto-Santa Rosalía, Santa Rosalía, BCS, Mexico"
+Vila Franca do Campo,PT,37.7167,-25.4333,67,Vinha d'Areia Beach Hotel,"Rua da Marina, 9680-146 Vila Franca do Campo, Portugal"
+Shenjiamen,CN,29.9576,122.298,88,Zhonghan Hotel,"海天大道, 舟山群岛新区, 316100 Zhejiang, China"
+Timbuktu,ML,16.7735,-3.0074,11,Hotel La Maison,"Rue Gorbeygna, Timbuktu, Mali"
+Santa Ana,US,33.7456,-117.8678,72,Holiday Inn Express,"East 1st Street, Santa Ana, CA 92705, United States of America"
+Margate,GB,51.3813,1.3862,79,The Reading Rooms,"31 Hawley Square, Thanet, CT9 1PH, United Kingdom"
+Langueux,FR,48.495,-2.7185,84,Campanile,"Rue Blaise Pascal, 22360 Langueux, France"
+Victorica,AR,-36.2151,-65.4359,79,Hotel Mazamet,"Calle 15 751, 6319 Victorica, Argentina"
+Kabala,SL,9.5833,-11.55,17,name not found,address not found
+Port Alfred,ZA,-33.5906,26.891,95,name not found,"Royal Alfred Marina, Ndlambe Local Municipality, 6170, South Africa"
+Bogale,MM,16.2833,95.4,72,name not found,address not found
+Rosarito,MX,32.3333,-117.0333,66,WorldMark La Paloma,"Boulevard Popotla, 22700 Rosarito, BCN, Mexico"
+Bodri,IN,23.1667,81.4333,54,name not found,address not found
+Kataba,YE,13.9833,44.3833,50,name not found,address not found
+Laguna,US,38.421,-121.4238,80,Holiday Inn Express & Suites,"9175 West Stockton Boulevard, Elk Grove, CA 95758, United States of America"
+Codrington,AU,-38.2667,141.9667,81,name not found,address not found
+Ishigaki,JP,24.3448,124.1572,100,アートホテル石垣島,"Prefectural Highway Route 208 Ishigaki-Asada Line, Ishigaki, Ishigaki, 907-8501, Japan"
+Kabare,CD,-2.4683,28.8242,95,Panorama Hotel,"Boulevard Reine Elisabeth, Bukavu, Democratic Republic of the Congo"
+Luau,AO,-10.7073,22.2247,99,name not found,address not found
+Harnai,PK,30.1005,67.9374,29,name not found,address not found
+Mogador,MA,31.5125,-9.77,62,Essaouira Wind Palace,"Avenue de L'Istiqlal, 44100 Essaouira, Morocco"
+Merced,US,37.1666,-120.7516,80,name not found,address not found
+Erigavo,SO,10.6162,47.368,79,Sanaag Hotel,"Tabca Road, Erigavo, Somalia"
+Ain Sukhna,EG,29.6002,32.3167,89,العين السخنة,"Ain Sokhna, Zaafarana Road, Egypt"
+Duki,PK,30.1541,68.5728,31,name not found,address not found
+Bukama,CD,-9.2,25.85,99,Mission catholique,"Avenue de la Cite, Bukama, Democratic Republic of the Congo"
+Vredendal,ZA,-31.6683,18.5012,66,name not found,address not found
+Chui,UY,-33.6971,-53.4616,74,Alerces,"Sargento Francisco de los Santos, 27100 Chuy, Uruguay"
+Coquimbo,CL,-29.9533,-71.3436,77,Hotel Iberia,"Lastra 400, 179 0437 Coquimbo, Chile"
+Bhadohi,IN,25.4167,82.5667,67,name not found,address not found
+Cidreira,BR,-30.1811,-50.2056,71,Hotel Castelo,"Rua Osvaldo Aranha, Cidreira - RS, 95595-000, Brazil"
+Stephenville,US,32.2207,-98.2023,53,name not found,"Stephenville, TX 76401, United States of America"
+Mugia,ES,43.1041,-9.2179,93,Solpor do Coído,"Rúa Condes de Maceda, 15215 Muxía, Spain"
+Rome,US,43.2128,-75.4557,96,Wingate by Wyndham Rome,"90 Dart Circle, City of Rome, NY 13441, United States of America"
+Fortuna,US,40.5982,-124.1573,82,Comfort Inn & Suites Redwood Country,"1583 Riverwalk Drive, Fortuna, CA 95540, United States of America"
+Bokoro,TD,12.3807,17.0568,22,name not found,address not found
+Eastman,US,32.1977,-83.1777,49,name not found,"Eastman, GA 31023, United States of America"
+Newman,US,37.3138,-121.0208,63,name not found,address not found
+Heyuan,CN,23.7333,114.6833,61,汇景希尔顿逸林酒店,"越王大道, Guangdong Province, China"
+Saint-Philippe,RE,-21.3585,55.7679,70,Le Baril,"Route Nationale 2 Baril, 97442 Saint-Philippe, France"
+Turan,VN,16.0678,108.2208,100,Thanh Thanh Hotel,"Đường Phan Châu Trinh, Hải Châu District, Đà Nẵng, 50207, Vietnam"
+Ataq,YE,14.5377,46.8319,42,الشارقة بلازا,"Al Am Street, `Ataq, Yemen"
+Kas,TR,36.2018,29.6377,51,KEKOVA OTEL,"Likya Caddesi, 08750 Kaş, Turkey"
+Golāghāt,IN,26.5167,93.9667,76,name not found,address not found
+Tortolì,IT,39.9256,9.6572,86,La Corte,"Corso Umberto, 08048 Tortolì OG, Italy"
+Antofagasta,CL,-23.65,-70.4,74,Hotel Colón,"José de San Martín, 127 1572 Antofagasta, Chile"
+Al Kharj,SA,24.155,47.3346,46,شقق فندقية,"طريق الملك عبد الله, As Sahba', As Sayh 16278, Saudi Arabia"
+Timizart,DZ,36.8,4.2667,56,name not found,address not found
+Machico,PT,32.7,-16.7667,90,Residence Inn,"Caminho da Bemposta, 9100-222 Machico, Portugal"
+Nova Sintra,CV,14.8667,-24.7167,78,Residência Ka Dencho,"Nova Sintra -Nossa Senhora do Monte - Cachaço, 9110-Cova Rodela, Cape Verde"
+At Tāj,LY,24.2049,23.2857,56,name not found,address not found
+Adrar,MR,20.5022,-10.0711,11,name not found,address not found
+Kidal,ML,18.4411,1.4078,14,name not found,address not found
+Mwene-Ditu,CD,-7.0,23.45,99,Hôtel KAMAS,"RN40, Mwene-Ditu, Democratic Republic of the Congo"
+Richards Bay,ZA,-28.783,32.0377,84,SUN1 Richards Bay,"6 South East Central, Veldenvlei, Richards Bay, 3900, South Africa"
+Chachapoyas,PE,-6.2317,-77.869,98,Hostal Karajia,"Jirón Dos de Mayo, Pedro Castro, Chachapoyas 01001, Peru"
+Saint-Joseph,RE,-21.3667,55.6167,62,PALM Hotel & Spa,"43 Rue des Mascarins, 97429 Petite-Île, France"
+Katsuren-haebaru,JP,26.3369,127.8719,68,name not found,"Okinawa, Teruya 5-chome 904-0011, Japan"
+Alpine,US,32.835,-116.7664,56,Ayres Lodge Alpine,"1251 Tavern Road, Alpine, CA 91901, United States of America"
+Jieshi,CN,22.8134,115.8257,78,name not found,address not found
+Bardai,NG,11.65,7.2333,22,name not found,address not found
+Masterton,NZ,-40.9597,175.6575,63,Copthorne Hotel Solway Park,"Driving Range Road, Solway, Masterton 5810, New Zealand"
+Yanchep,AU,-31.55,115.6833,66,Yanchep Inn,"Woodlands, Yanchep WA 6035, Australia"
+Blythe,US,33.6103,-114.5964,15,Quality Inn,"West Donlon Street, Blythe, CA 92226, United States of America"
+Guerrero Negro,MX,27.9769,-114.0611,33,Plaza sal paraiso,"Calle Sergio Noyola N., 23940 Guerrero Negro, BCS, Mexico"
+Smiths,US,32.5401,-85.0985,60,name not found,address not found
+Taltal,CL,-25.4,-70.4833,74,Hostería Taltal,"Esmeralda, Taltal, Chile"
+Pacocha,PE,-17.5833,-71.3333,87,Gran Hotel Ilo,"Avenida Andrés Avelino Cáceres, Pampa Inalambrica, Ilo 18601, Peru"
+Thames,NZ,-37.1333,175.5333,67,Kopu Station Hotel,"1 Kopu Road, Kopu 3500, New Zealand"
+Bāqa el Gharbīya,IL,32.4181,35.0431,75,اسكانات الصيداوي,"Illar - Seida, 072 Ilar, Palestinian Territory"
+Río Gallegos,AR,-51.6226,-69.2181,28,Amérian Río Gallegos Apart & Suites,"Avenida General José de San Martín 673, Zona Centro, 9400 Río Gallegos, Argentina"
+Lata,PT,40.1629,-8.3327,85,Residencial Botânico,"Rua dos Combatentes da Grande Guerra 15, 3030-181 Coimbra, Portugal"
+Morehead City,US,34.7229,-76.726,86,"Bask Hotel Big Rock Landing, Trademark Collection by Wyndham","814 Shepard Street, Morehead City, NC 28557, United States of America"
+Tougue,GN,11.4667,-11.6,15,name not found,address not found
+Fort Bragg,US,35.139,-79.006,90,Airborne Inn Lodging,"Bastogne Drive, Hammond Hills, NC 28310, United States of America"
+Djibo,BF,14.1022,-1.6306,13,name not found,"Djibo, Soum, Sahel, Burkina Faso"
+Gwadar,PK,25.1216,62.3254,75,Sadaf Resorts,"بلوار غربی, Gwadar, Pakistan"
+Pampas,PE,-12.4,-74.9,85,Hotel Plaza,"Jirón Grau, Pampas 09000, Peru"
