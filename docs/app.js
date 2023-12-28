@@ -1,7 +1,7 @@
 $( document ).ready(function() {
     console.log("window loaded");
     // https://github.com/d3/d3-request
-    d3.csv("python_api_scripts/output/hotels_near_cities.csv", function(error, data) {
+    d3.csv("../python_api_scripts/output/hotels_near_cities.csv", function(error, data) {
         if (error) throw error;
         
         console.log(data[0]); // verify data import
